@@ -1,4 +1,4 @@
-# multicore project
+# Multicore Project
 
 ## 프로젝트의 목적
 
